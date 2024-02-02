@@ -1,0 +1,5 @@
+address,tenant2@student.monash.edu,Winnie,Wang,041948937,0
+9-11 Dixon street,tenant2@student.monash.edu,Winnie,Wang,041948937,0
+address,tenant1@student.monash.edu,Wang,dd,41948937,2
+5 Alexander Ave,tenant1@student.monash.edu,Wang,dd,41948937,250
+

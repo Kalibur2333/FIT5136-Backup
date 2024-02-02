@@ -1,0 +1,7 @@
+address,suburb,house,500,false,2,1,VIC,20/03/2023,abcd@gmail.com,GaryPeer,350,Clayton,beautiful house,20/05/2023,leasing
+9-11 Dixon street,Clayton,house,800,false,4,3,VIC,21/03/2023,city@gmail.com,buxton,750,Clayton,classic property,20/05/2023,leasing
+5 Alexander Ave,Oakleigh East,apartment,700,false,3,2,VIC,01/04/2023,21centry@gmail.com,GaryPeer,700,Okaleigh,comfortable property with furnitures,13/04/2023,leasing
+LG04/660 blackburn road, Notting Hill,unit,660,false,2,2,VIC,15/02/2023,raywhite@gmail.com,GaryPeer,600,Notting Hill,mordern style apartment,24/05/2023,leasing
+2/47 Brandon Park Drive,Wheelers Hill,house,750,false,3,2,VIC,28/02/2023,buxton@gmail.com,woodards,700,Wheelers Hill,red bricks style,12/06/2023,leasing
+4/353 Springvale road,Glen Waverley,unit,700,false,2,2,VIC,15/04/2023,harcourts@gmail.com,Personal,660,Glen Waverley,carefree lifestyle,13/06/2023,leasing
+G01/124 Clayton Road,Clayton,apartment,650,false,3,2,VIC,20/05/2023,Davita@gmail.com,GaryPeer,700,Clayton,traditional apartment,10/06/2023,leasing

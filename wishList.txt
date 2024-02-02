@@ -1,0 +1,7 @@
+tenant1@student.monash.edu,address
+tenant1@student.monash.edu,9-11 Dixon street
+tenant1@student.monash.edu,4/353 Springvale road
+tenant2@student.monash.edu,address
+
+tenant1@student.monash.edu,address
+tenant1@student.monash.edu,address
